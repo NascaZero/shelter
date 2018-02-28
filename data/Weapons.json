@@ -1,0 +1,9 @@
+[
+null,
+{"id":1,"animationId":6,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":97,"name":"Sword","note":"","params":[0,0,4,0,0,0,0,0],"price":500,"wtypeId":2},
+{"id":2,"animationId":1,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":101,"name":"Cane","note":"","params":[0,0,1,0,0,0,0,0],"price":500,"wtypeId":6},
+{"id":3,"animationId":11,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":102,"name":"Bow","note":"<letbs>\nscope: circle(4,2)\nsequence: projectile(bow_arrow)\n</letbs>","params":[0,0,3,0,0,0,0,0],"price":500,"wtypeId":7},
+{"id":4,"animationId":11,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":100,"name":"Whip","note":"","params":[0,0,2,0,0,0,0,0],"price":500,"wtypeId":7},
+{"id":5,"animationId":111,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":116,"name":"狙击枪","note":"<letbs>\nscope: circle(6,3)\n</letbs>","params":[0,0,5,0,0,0,0,0],"price":500,"wtypeId":9},
+{"id":6,"animationId":112,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":116,"name":"突击步枪","note":"<letbs>\nscope: circle(4,2)\n</letbs>","params":[0,0,5,0,0,0,0,0],"price":500,"wtypeId":9}
+]
